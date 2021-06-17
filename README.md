@@ -1,1 +1,1 @@
-# analysing_hotels
+My aim to this project is to conduct sentiment analysis on textual hotel reviews. I'm curious as to whether the users' remarks expressed favorable or negative thoughts. To investigate all of the positive and negative reviews, I employed visualization.zß
